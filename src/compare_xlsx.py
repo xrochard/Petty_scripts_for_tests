@@ -1,5 +1,5 @@
 # WTFPL licence (see http://www.wtfpl.net/)
-# formatted with black, see https://github.com/python/black. 
+# formatted with black, see https://github.com/python/black.
 
 
 import argparse
